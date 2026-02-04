@@ -269,13 +269,13 @@ Rishav_jarvis/
 ## 📸 Screenshots
 
 ### Chat Interface
-![Chat](https://via.placeholder.com/800x400?text=JARVIS+Chat+Interface)
+![JARVIS Chat Interface](Screenshot 2026-02-05 040952)
 
 ### Knowledge Base
-![KB](https://via.placeholder.com/800x400?text=Knowledge+Base)
+![Knowledge Base Management](Screenshot 2026-02-05 041109)
 
 ### RAG in Action
-![RAG](https://via.placeholder.com/800x400?text=RAG+Search+Results)
+![RAG Retrieving Context](Screenshot 2026-02-05 041252)
 
 ## 🤝 Contributing
 
