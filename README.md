@@ -266,11 +266,7 @@ Rishav_jarvis/
 ✅ **Knowledge Storage & Retrieval** - Document management with vector search  
 ✅ **Chatbot UI** - Beautiful React interface  
 
-## 📸 Screenshots
 
-![JARVIS Chat Interface](Screenshot%202026-02-05%20040952.png)
-![Knowledge Base Management](Screenshot%202026-02-05%20041109.png)
-![RAG in Action](Screenshot%202026-02-05%20041252.png)
 
 ## 🤝 Contributing
 
