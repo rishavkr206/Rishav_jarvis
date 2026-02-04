@@ -1,3 +1,2 @@
-{
-  "template": "bolt-vite-react-ts"
-}
+VITE_SUPABASE_URL= https://ssrrhjxtpstqittuslzl.supabase.co
+VITE_SUPABASE_ANON_KEY= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNzcnJoanh0cHN0cWl0dHVzbHpsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAyMTYwNzQsImV4cCI6MjA4NTc5MjA3NH0.V7gL636OV0hPhJpnnb-0tZSNu0A8ppyqssJHkqxZfN0
