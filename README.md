@@ -269,15 +269,15 @@ Rishav_jarvis/
 ## 📸 Screenshots
 
 ### Chat Interface
-![JARVIS Chat Interface](./screenshots/chat<img width="1917" height="866" alt="Screenshot 2026-02-05 040952" src="https://github.com/user-attachments/assets/0a9ba6b9-9b73-499c-8b95-b9ce142ae5e5" />
--interface.png)
+<img width="1917" height="866" alt="Screenshot 2026-02-05 040952" src="https://github.com/user-attachments/assets/0a9ba6b9-9b73-499c-8b95-b9ce142ae5e5" />
+
 
 ### Knowledge Base
-![Knowledge Base Management](./screenshots/knowledge-base.png)
+
 <img width="1835" height="617" alt="Screenshot 2026-02-05 041109" src="https://github.com/user-attachments/assets/bf0510d4-3a2f-4a1b-98ca-57ff54e08080" />
 
 ### RAG in Action
-![RAG Retrieving Context](./screenshots/rag-example.png)<img width="1914" height="945" alt="Screenshot 2026-02-05 041252" src="https://github.com/user-attachments/assets/6221853a-7638-4cc6-94a2-8a211d35098e" />
+<img width="1914" height="945" alt="Screenshot 2026-02-05 041252" src="https://github.com/user-attachments/assets/6221853a-7638-4cc6-94a2-8a211d35098e" />
 
 
 ## 🤝 Contributing
