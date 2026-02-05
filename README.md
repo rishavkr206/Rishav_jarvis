@@ -239,6 +239,11 @@ Rishav_jarvis/
 └── README.md
 ```
 
+## 🎥 Demo Video
+
+Watch JARVIS in action: [Demo Video](https://drive.google.com/file/d/10DQu04tXQT5LMdQ6noy-kMWIg8_KZMP5/view?usp=sharing)
+
+
 ## 🔐 Security Notes
 
 - ⚠️ **Never commit `.env` files!**
